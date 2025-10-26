@@ -1,0 +1,5 @@
+{
+  "name": "File Renamer & Saver",
+  "description": "A sleek and intuitive web application that allows users to drag and drop a file, rename it with a YYYYMMDD prefix, and save it to their local machine. The app provides a file preview for images and displays key file information.",
+  "requestFramePermissions": []
+}
